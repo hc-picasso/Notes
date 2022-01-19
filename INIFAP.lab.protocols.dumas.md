@@ -2,14 +2,14 @@
 id: RVZeVlwygYSPo0oCRW3EQ
 title: Dumas notes from Cristo
 desc: ''
-updated: 1642615019063
+updated: 1642615297515
 created: 1642613782970
 ---
 
 This note goes through a converstion I had with Cristo regarding the lab results from the preliminary maguey and carbon samples.
 ## Summary
 
-- Soil and plant samples may have residual humidity, -which isn't generally quantified by labs- and affect final carbon content (underestimate).
+- Soil and plant samples may have residual humidity, -which isn't generally quantified by labs[probably wasn't done for our analysis]- and affect final carbon content (underestimate).
 
 - Their method which is unpublished yet -and about to test against carbon standards-, accounts for this. Cristo thinks it would be the most cost effective method for plant tissue.
 
