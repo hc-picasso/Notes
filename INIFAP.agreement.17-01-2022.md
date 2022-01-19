@@ -2,7 +2,7 @@
 id: 5QmKTAJYgrVxkU7TlOxTV
 title: Agreement review 17 01 22
 desc: ''
-updated: 1642606141114
+updated: 1642606547176
 created: 1642451784731
 ---
 As you know Ramón told us that the last agreement was outdated by the legal department, so he gave us a new one with HB data.
@@ -56,3 +56,6 @@ Ramón is proposing:
 
 ## Conclusions
 - For the author rights, easiest way I see is **trusting** that they will do as we have agreed by word and the 'OCTAVA' clause, just add 'licencing'.
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
