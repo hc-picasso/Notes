@@ -2,7 +2,7 @@
 id: 5QmKTAJYgrVxkU7TlOxTV
 title: Agreement review 17 01 22
 desc: ''
-updated: 1642606547176
+updated: 1642615023377
 created: 1642451784731
 ---
 As you know Ramón told us that the last agreement was outdated by the legal department, so he gave us a new one with HB data.
@@ -10,7 +10,7 @@ As you know Ramón told us that the last agreement was outdated by the legal dep
 You can find it here:
 https://netorgft1964553.sharepoint.com/:w:/s/drylands/Ef0DV2VQTd5NsZ14h6oQMuwBaO13Cc8Es_An8SDGFpISeA?e=uoJu0z
 
-We had talked about the intellectual property. As is is worded now:  
+We had talked about the intellectual property. As it is worded now:  
 
 >"La titularidad de los derechos propiedad intelectual que se generen, produzcan o deriven de las actividades objeto del presente instrumento serán de la parte cuyo personal lo haya realizado; pudiendo, en consecuencia, explotarlos por sí o por conducto de terceros, en cualquier modalidad conocida o por conocerse y sin limitación alguna en tiempo y forma, con la obligación de mencionar el crédito que les corresponda a los colaboradores que hubiesen participado en su creación; para las actividades que realicen “LAS PARTES” conjuntamente, la propiedad intelectual corresponderá proporcionalmente en función del porcentaje de colaboración que realice cada una de ellas y su explotación, uso, transferencia o licenciamiento debe ser establecido de común acuerdo."
 
@@ -51,7 +51,7 @@ Ramón is asking for:
 - Is it  Bill or Receipt? We should ask Rachel
 
 Ramón is proposing:
-- 40%, 30% and 30% are the proposal for the payment, the time will be part of the schedule, her is only for example purposes
+- 40%, 30% and 30% are the proposal for the payment, the time will be part of the schedule, current placeholder
 - INIFAP obligations (deliverables) will be updated as the te
 
 ## Conclusions
