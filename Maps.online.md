@@ -2,7 +2,7 @@
 id: Nha2yHo4KtJdQNGMjkVSi
 title: Maps online
 desc: ''
-updated: 1642509501846
+updated: 1642631310467
 created: 1642436600804
 ---
 ## Notes on potential online map tools
@@ -83,6 +83,8 @@ https://gdal.org/programs/gdal_translate.html
 - 1/5 of linear pixels
 - 0.65% file size reduction with 75% quality
 - that's 1.75 MB/Ha
+
+
 
 Download it to zoom in
 https://netorgft1964553-my.sharepoint.com/:u:/g/personal/danielpicasso_hudsoncarbon_com/Ebrh91lXOAdFpuxD6mTzbFEBNXVZvRuimdoiT64-iZwXSQ?e=E4UCVW
