@@ -2,7 +2,7 @@
 id: Cm4S2xW62vJF6ozxqqLuh
 title: GDAL
 desc: ''
-updated: 1642694176630
+updated: 1642864607526
 created: 1642628703479
 ---
 https://www.youtube.com/watch?v=8iCWUp7WaTk
@@ -85,3 +85,9 @@ Another solution using GDAL is the gdal_retile.py tool:
 ```gdal_retile.py -v -r bilinear -levels 1 -ps 20000 20000 -co "TILED=YES" -co "COMPRESS=JPEG" -targetDir image_tiles big_input_image.tif```
 
 ```gdal_retile.py -v -r bilinear -levels 1 -ps 15000 15000 -co "TILED=YES" -co -targetDir image_tiles big_input_image.tif```
+
+```gdal_retile.bat -v -r bilinear -levels 1 -of WEBP -ps 15000 15000 -co -targetDir C:\GDAL\aaa C:\GDAL\arenal.tif ```
+
+```gdalwarp -t_srs EPSG:3857 -r near C:\GDAL\arenal.tif  C:\GDAL\arenal2.tif```
+```gdal_translate -of mbtiles C:\GDAL\arenal2.tif C:\GDAL\arenal2.mbtiles
+```gdaladdo -r nearest C:\GDAL\arenal2.mbtiles 2 4 8 16

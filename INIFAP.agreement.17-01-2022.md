@@ -2,7 +2,7 @@
 id: 5QmKTAJYgrVxkU7TlOxTV
 title: Agreement review 17 01 22
 desc: ''
-updated: 1642615023377
+updated: 1642711214296
 created: 1642451784731
 ---
 As you know Ramón told us that the last agreement was outdated by the legal department, so he gave us a new one with HB data.
@@ -36,7 +36,7 @@ Daniel: I see it two ways:
     It might work as it's stated later:
 
     >**OCTAVA. PUBLICACIONES.
-    “LAS PARTES” convienen que las publicaciones, así como las coproducciones y la difusión de los resultados derivados del presente Convenio General y de sus Convenios Específicos, se realizarán de común acuerdo.**
+    > “LAS PARTES” convienen que las publicaciones, así como las coproducciones y la difusión de los resultados derivados del presente Convenio General y de sus Convenios Específicos, se realizarán de común acuerdo.**
     En toda publicación y/o promoción que se efectúe como resultado de la ejecución de los proyectos de investigación, validación, transferencia de tecnología, actividades de capacitación y temas afines, a través de los Convenios Específicos y Anexos Técnicos correspondientes, se reconocerá la participación de “LAS PARTES”, así como los derechos de proporcionar información a terceros que lo soliciten, previo consentimiento por escrito de “LAS PARTES”.   
 
 2. the difficult way is, rewriting stating that HC is collaboating on this project with personell and finance, and thus, is allowed some patrimonial rights, which will legally oblige to decide conjointly the type of publications and licensing.
@@ -55,7 +55,4 @@ Ramón is proposing:
 - INIFAP obligations (deliverables) will be updated as the te
 
 ## Conclusions
-- For the author rights, easiest way I see is **trusting** that they will do as we have agreed by word and the 'OCTAVA' clause, just add 'licencing'.
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+- For the author rights, easiest way I see is **trusting** that they will do as we have agreed by word and the 'OCTAVA' clause, just add 'licencing' and 'specified in the technical annex'.

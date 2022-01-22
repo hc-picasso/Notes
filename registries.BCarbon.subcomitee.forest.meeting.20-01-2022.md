@@ -2,13 +2,13 @@
 id: 5Mi2PNQe9Lgq3uEzhtigA
 title: BCarbon forest subcomitee meeting 20-01-2022
 desc: ''
-updated: 1642698195645
+updated: 1642699465304
 created: 1642694279286
 ---
 
 - Draft of protocol for measurement aboveground biomass is presented 
 - Diferentiation of BCarbon is promoting env services focus but would allow large monoculture projects
-- Different tiers of credits for different management strategies (more expensive tier with those focused on env serv)
+- **Different tiers of credits for different management strategies (more expensive tier with those focused on env serv)**
 - WHat's the overarching goal? to provide a nature based climate solution by creating natural systems that reduce carbon in the atmosphere. 
     - BCarbon standard has lower threshold additionality and permanence
     - Having less ecological valio is not equal to no ecological value
@@ -47,8 +47,14 @@ Brian Thomas:
 - Aditionaity definition and appliction in forest domain. Will develop official position in the following weeks on a separate call. 
 
 - Management Plans and Vegetation simulator as basic requirements how are they going to be addresed for non US countries
+----
+## Internal Discussion
 
+Mike:
 
+> Industrial tree plantations would get money for doing noothing, BCarbon would be critisized.
+
+> Be clear with David about this concern about getting paid in Business as usual (Confirm with Ben) Don't want to be part of an organization with bad rep. Some kind of better practices is needed.
 -----
 
 https://www.agriinvestor.com/blue-carbon-projects-added-to-australian-carbon-credits-scheme/

@@ -2,7 +2,7 @@
 id: Q8KqROFgnFt7OMOdxv33F
 title: publications
 desc: ''
-updated: 1642509905360
+updated: 1642700701696
 created: 1642436462564
 ---
 
@@ -12,16 +12,22 @@ created: 1642436462564
 
 1. Dataset (on data repositories if possible, see below)
     - Initial Carbon distribution characterization data (~ 15 plants)
-    - Inventory Data (Includes carbon and dm)
+    - Inventory Data (Includes carbon and dm, allometric dimensions)
     - Geospatial data (polygon)
     - Drone Raw imagery or if not possible, georeferenced 'low quality' tiled raster file.
 2. Deliverables (others from the dataset) from technical annex as research artefacts (Can they be open? See notes below).
     - If relevant and possible as Jupyter notebook
     - Includes code, repository on github 
-3. Instructional technical document (Guía Técnica?) for Drone & GIS technicians/service providers to be able to replicate deliverables for other site.
+3. Instructional technical document (Guía Técnica?) for Drone & GIS technicians/service providers to be able to replicate the deliverables for other sites.
 4. Flyer (Folleto técnico) for Drone & GIS technicians/service providers to know that this exists.
 4. Flyer (Folleto para productores) for farmers to know this system exists. 
 5. Scientific publication in journal or elsewhere.
+
+- HC would like all publications to be open access, published as soon as they are delivered according to the gant chart.
+
+- If INIFAP would prefer to save the data for some months, we would need some restricted licences to show to potential registries and clients, but not too many months. Need to talk about it.
+
+
 
 ## Dataset & research artifact repository options
 ### Zenodo
