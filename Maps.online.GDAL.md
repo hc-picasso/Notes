@@ -2,7 +2,7 @@
 id: Cm4S2xW62vJF6ozxqqLuh
 title: GDAL
 desc: ''
-updated: 1643032469014
+updated: 1643227230562
 created: 1642628703479
 ---
 https://www.youtube.com/watch?v=8iCWUp7WaTk
@@ -86,8 +86,17 @@ Another solution using GDAL is the gdal_retile.py tool:
 
 ```gdal_retile.py -v -r bilinear -levels 1 -ps 15000 15000 -co "TILED=YES" -co -targetDir image_tiles big_input_image.tif```
 
-```gdal_retile.bat -v -r bilinear -levels 1 -of WEBP -ps 15000 15000 -co -targetDir C:\GDAL\aaa C:\GDAL\arenal.tif ```
+```gdal_retile.bat -v -r bilinear -levels 1 -of WEBP -ps 15000 15000 -co -targetDir C:\GDAL\aaa C:\GDAL\arenalTif.tif ```
 
 ```gdalwarp -t_srs EPSG:3857 -r near C:\GDAL\arenal.tif  C:\GDAL\arenal2.tif```
 ```gdal_translate -of mbtiles C:\GDAL\arenal2.tif C:\GDAL\arenal2.mbtiles
 ```gdaladdo -r nearest C:\GDAL\arenal2.mbtiles 2 4 8 16
+
+gdal_translate -outsize 20% 20% -a_srs EPSG:6369 -of JP2OpenJPEG -co COMPRESS=JPEG -co JPEG_QUALITY=75 C:/GDAL/arenal.tif C:/GDAL/arenaljpg.jp2
+
+gdal_translate -outsize 30% 30% -a_srs EPSG:6369 -of JP2OpenJPEG -co COMPRESS=JPEG -co JPEG_QUALITY=75 C:/GDAL/arenal.tif C:/GDAL/arenaljpg30.jp2
+
+gdal_translate -outsize 30% 30% -co "TILED=YES" -a_srs EPSG:6369 -of JP2OpenJPEG -co COMPRESS=JPEG -co JPEG_QUALITY=75 C:/GDAL/arenal.tif C:/GDAL/arenaljpg30T.jp2
+
+gdal_translate -outsize 30% 30% -a_srs EPSG:6369 -co JPEG_QUALITY=75 C:/GDAL/arenal.tif C:/GDAL/arenal30Tif.tif
+gdal_retile.bat -v -r bilinear -levels 1 -of WEBP -ps 15000 15000 -targetDir C:\GDAL\aaa C:\GDAL\arenal30Tif.tif

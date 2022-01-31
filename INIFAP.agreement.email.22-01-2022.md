@@ -2,7 +2,7 @@
 id: 4vRpxhRK7CMw6ImUx2nTf
 title: 22-01-2022
 desc: ''
-updated: 1642865809155
+updated: 1643058663344
 created: 1642862270706
 ---
 Good day Ramón
@@ -11,15 +11,15 @@ Do you think we can use a power of attorney as the legal designation?
 
 We have a one pager of HC's purpose mission and vision, would that be usefu for purpose statement?
 
-
 As following is how HC envisions publications:
 
 1. Dataset (on data repositories if possible, see below)
     - Initial Carbon distribution characterization data (~ 15 plants)
     - Inventory Data (Includes carbon and dm, allometric dimensions)
+    - Non-agave plant's data
     - Geospatial data (polygon)
     - Drone Raw imagery or if not possible, georeferenced 'low quality' tiled raster file if relevant.
-2. Deliverables as stated in the technical annex (others from the dataset) from technical annex as research artefacts (HC would like them to be open. See notes below).
+2. Deliverables as stated in the technical annex (others from the dataset) from technical annex as research artefacts (zenodo if possible) (HC would like them to be open. See notes below).
     - If relevant and possible as Jupyter notebook
     - Includes code, repository on github 
 3. Instructional technical document (Guía Técnica?) for Drone & GIS technicians/service providers to be able to replicate the deliverables for other sites.
@@ -40,7 +40,12 @@ Regarding the seventh clause, we'd like to ask more specificly how would IP righ
 
 Regarding the payments, If a Mexican entity were to provide such payments, would there be an increase because of taxes? or would it be the same amount of money?
 
-Thank you Ramón, looking forward for your feedback.
+Thank you Ramón, looking forward to address this points and advance the project. Please let us know available time spots to scheldule a video call.
+
+Best Regards
+
+
+Daniel
 
 ----------
 ## Notes below
