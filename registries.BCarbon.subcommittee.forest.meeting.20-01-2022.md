@@ -1,20 +1,19 @@
 ---
 id: 5Mi2PNQe9Lgq3uEzhtigA
-title: BCarbon forest subcomitee meeting 20-01-2022
+title: 20-01-2022
 desc: ''
-updated: 1642699465304
+updated: 1644008868051
 created: 1642694279286
 ---
-
 - Draft of protocol for measurement aboveground biomass is presented 
 - Diferentiation of BCarbon is promoting env services focus but would allow large monoculture projects
 - **Different tiers of credits for different management strategies (more expensive tier with those focused on env serv)**
 - WHat's the overarching goal? to provide a nature based climate solution by creating natural systems that reduce carbon in the atmosphere. 
     - BCarbon standard has lower threshold additionality and permanence
-    - Having less ecological valio is not equal to no ecological value
+    - Having less ecological value is not equal to no ecological value
     - Acknowledge lower price of carbon credits due to lower add perm thresholds
     - 10 year time criteria would allow other market players to come in after 20 yrs, then harvest and count the carbon in the wood as carbon residual.
-    - "Benefits of clear cutting": poplar were mentioned as the succesional boost
+    - "Benefits of clear cutting": poplar were mentioned as the successional boost
     
 Miguel:
 > MAybe for a BCarbon forestry credit, the credit has to be retired during the life of the contract? used and retired
