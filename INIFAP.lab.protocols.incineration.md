@@ -2,7 +2,7 @@
 id: cm6KN2AftcwzzRA80lGhn
 title: incineration method
 desc: ''
-updated: 1644934540461
+updated: 1644945985798
 created: 1644934416053
 ---
 NORMA Oficial Mexicana NOM-021-RECNAT-2000
@@ -74,3 +74,4 @@ https://www.dof.gob.mx/nota_detalle.php?codigo=717582&fecha=31/12/2002
   mcf = factor de corrección de humedad.
 
 **% Materia orgánica = % C Orgánico x 1.724**
+
